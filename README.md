@@ -29,8 +29,8 @@ How to install:
 
 1. Clone the repository
 2. yarn install
-3 .yarn jest  - unit tests
-4.  yarn start 
+3. yarn jest  - unit tests
+4. yarn start 
 
 A. The crawling process will be output in the console
 
