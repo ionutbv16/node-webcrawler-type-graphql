@@ -14,6 +14,7 @@ Stack used for this project:
 	•	GraphQL with Apollo Server
 	•	express
 	•	uuid
+	•	Jest
 
  ``` 
  
