@@ -18,7 +18,7 @@ Stack used for this project:
  ``` 
  
 
-## &nbsp; How to run the code & Description 
+## &nbsp;  Description & How to run the code
 
  
 ```
